@@ -1,0 +1,8 @@
+# Datasets
+*.tar.gz
+*.tar.bz2
+*.pickle
+*.png
+*.jpg
+
+.DS_Store
